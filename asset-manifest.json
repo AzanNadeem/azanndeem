@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//azannadeem.github.io/azanndeem/static/css/main.073c9b0a.css",
+    "main.js": "//azannadeem.github.io/azanndeem/static/js/main.ae837770.js",
+    "static/js/787.719ec76d.chunk.js": "//azannadeem.github.io/azanndeem/static/js/787.719ec76d.chunk.js",
+    "index.html": "//azannadeem.github.io/azanndeem/index.html",
+    "main.073c9b0a.css.map": "//azannadeem.github.io/azanndeem/static/css/main.073c9b0a.css.map",
+    "main.ae837770.js.map": "//azannadeem.github.io/azanndeem/static/js/main.ae837770.js.map",
+    "787.719ec76d.chunk.js.map": "//azannadeem.github.io/azanndeem/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ae837770.js"
+  ]
+}
